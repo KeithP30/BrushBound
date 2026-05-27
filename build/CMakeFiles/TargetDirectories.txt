@@ -1,0 +1,3 @@
+/home/keithpx/Documents/BrushBound/build/CMakeFiles/BrushBound.dir
+/home/keithpx/Documents/BrushBound/build/CMakeFiles/edit_cache.dir
+/home/keithpx/Documents/BrushBound/build/CMakeFiles/rebuild_cache.dir
