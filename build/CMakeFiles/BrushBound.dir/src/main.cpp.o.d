@@ -284,15 +284,26 @@ CMakeFiles/BrushBound.dir/src/main.cpp.o: \
  /home/keithpx/Documents/BrushBound/include/glm/gtc/../ext/matrix_transform.hpp \
  /home/keithpx/Documents/BrushBound/include/glm/gtc/../ext/matrix_transform.inl \
  /home/keithpx/Documents/BrushBound/include/glm/gtc/matrix_transform.inl \
+ /home/keithpx/Documents/BrushBound/src/stb_image.h /usr/include/stdio.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/stdarg.h \
+ /usr/include/bits/types/__fpos_t.h /usr/include/bits/types/__mbstate_t.h \
+ /usr/include/bits/types/__fpos64_t.h /usr/include/bits/types/__FILE.h \
+ /usr/include/bits/types/FILE.h /usr/include/bits/types/struct_FILE.h \
+ /usr/include/bits/types/cookie_io_functions_t.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/stdio.h \
+ /usr/include/c++/16.1.1/stdlib.h /usr/include/c++/16.1.1/cstdlib \
+ /usr/include/string.h /usr/include/strings.h \
+ /usr/include/c++/16.1.1/math.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/emmintrin.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/xmmintrin.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/mmintrin.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/mm_malloc.h \
  /usr/include/c++/16.1.1/iostream /usr/include/c++/16.1.1/ostream \
  /usr/include/c++/16.1.1/bits/ostream.h /usr/include/c++/16.1.1/ios \
  /usr/include/c++/16.1.1/iosfwd /usr/include/c++/16.1.1/bits/stringfwd.h \
  /usr/include/c++/16.1.1/bits/postypes.h /usr/include/c++/16.1.1/cwchar \
- /usr/include/wchar.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/stdarg.h \
- /usr/include/bits/types/wint_t.h /usr/include/bits/types/mbstate_t.h \
- /usr/include/bits/types/__mbstate_t.h /usr/include/bits/types/__FILE.h \
- /usr/include/bits/types/FILE.h /usr/include/c++/16.1.1/exception \
+ /usr/include/wchar.h /usr/include/bits/types/wint_t.h \
+ /usr/include/bits/types/mbstate_t.h /usr/include/c++/16.1.1/exception \
  /usr/include/c++/16.1.1/bits/exception_ptr.h \
  /usr/include/c++/16.1.1/bits/cxxabi_init_exception.h \
  /usr/include/c++/16.1.1/bits/nested_exception.h \
@@ -327,16 +338,11 @@ CMakeFiles/BrushBound.dir/src/main.cpp.o: \
  /usr/include/c++/16.1.1/string_view \
  /usr/include/c++/16.1.1/bits/string_view.tcc \
  /usr/include/c++/16.1.1/ext/string_conversions.h \
- /usr/include/c++/16.1.1/cstdlib /usr/include/c++/16.1.1/cstdio \
- /usr/include/stdio.h /usr/include/bits/types/__fpos_t.h \
- /usr/include/bits/types/__fpos64_t.h \
- /usr/include/bits/types/struct_FILE.h \
- /usr/include/bits/types/cookie_io_functions_t.h \
- /usr/include/bits/stdio_lim.h /usr/include/bits/stdio.h \
- /usr/include/c++/16.1.1/cerrno /usr/include/errno.h \
- /usr/include/bits/errno.h /usr/include/linux/errno.h \
- /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
- /usr/include/asm-generic/errno-base.h /usr/include/bits/types/error_t.h \
+ /usr/include/c++/16.1.1/cstdio /usr/include/c++/16.1.1/cerrno \
+ /usr/include/errno.h /usr/include/bits/errno.h \
+ /usr/include/linux/errno.h /usr/include/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ /usr/include/bits/types/error_t.h \
  /usr/include/c++/16.1.1/bits/charconv.h \
  /usr/include/c++/16.1.1/bits/basic_string.tcc \
  /usr/include/c++/16.1.1/bits/locale_classes.tcc \
@@ -409,7 +415,6 @@ CMakeFiles/BrushBound.dir/src/main.cpp.o: \
  /home/keithpx/Documents/BrushBound/include/glm/gtc/../gtc/../ext/vector_int1_sized.hpp \
  /home/keithpx/Documents/BrushBound/include/glm/gtc/../gtc/../ext/vector_uint1.hpp \
  /home/keithpx/Documents/BrushBound/include/glm/gtc/../gtc/../ext/vector_uint1_sized.hpp \
- /usr/include/c++/16.1.1/cstring /usr/include/string.h \
- /usr/include/strings.h \
+ /usr/include/c++/16.1.1/cstring \
  /home/keithpx/Documents/BrushBound/include/glm/gtc/type_ptr.inl \
  /home/keithpx/Documents/BrushBound/src/Mesh.h
