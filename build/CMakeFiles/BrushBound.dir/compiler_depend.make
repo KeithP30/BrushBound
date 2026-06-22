@@ -307,8 +307,13 @@ CMakeFiles/BrushBound.dir/src/main.cpp.o: /home/keithpx/Documents/BrushBound/src
   /home/keithpx/Documents/BrushBound/include/glm/vec2.hpp \
   /home/keithpx/Documents/BrushBound/include/glm/vec3.hpp \
   /home/keithpx/Documents/BrushBound/include/glm/vec4.hpp \
+  /home/keithpx/Documents/BrushBound/src/BotAI.h \
+  /home/keithpx/Documents/BrushBound/src/Game.h \
   /home/keithpx/Documents/BrushBound/src/Mesh.h \
   /home/keithpx/Documents/BrushBound/src/Shader.h \
+  /home/keithpx/Documents/BrushBound/src/Trail.h \
+  /home/keithpx/Documents/BrushBound/src/UI.h \
+  /home/keithpx/Documents/BrushBound/src/Wizard.h \
   /home/keithpx/Documents/BrushBound/src/stb_image.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/bitsperlong.h \
@@ -882,6 +887,10 @@ CMakeFiles/BrushBound.dir/src/main.cpp.o: /home/keithpx/Documents/BrushBound/src
 
 /home/keithpx/Documents/BrushBound/src/stb_image.h:
 
+/home/keithpx/Documents/BrushBound/src/UI.h:
+
+/home/keithpx/Documents/BrushBound/src/Trail.h:
+
 /home/keithpx/Documents/BrushBound/src/Shader.h:
 
 /home/keithpx/Documents/BrushBound/src/Mesh.h:
@@ -1039,6 +1048,8 @@ CMakeFiles/BrushBound.dir/src/main.cpp.o: /home/keithpx/Documents/BrushBound/src
 /usr/lib/Scrt1.o:
 
 /usr/include/bits/types/struct_timespec.h:
+
+/home/keithpx/Documents/BrushBound/src/Game.h:
 
 /usr/include/bits/types/sigset_t.h:
 
@@ -1430,6 +1441,8 @@ CMakeFiles/BrushBound.dir/glad.c.o:
 
 /usr/include/linux/types.h:
 
+/home/keithpx/Documents/BrushBound/src/Wizard.h:
+
 /home/keithpx/Documents/BrushBound/include/glm/exponential.hpp:
 
 /home/keithpx/Documents/BrushBound/include/glm/ext/matrix_float2x3_precision.hpp:
@@ -1451,6 +1464,8 @@ CMakeFiles/BrushBound.dir/glad.c.o:
 /home/keithpx/Documents/BrushBound/include/glm/detail/func_integer.inl:
 
 /usr/include/c++/16.1.1/bits/ostream.tcc:
+
+/home/keithpx/Documents/BrushBound/src/BotAI.h:
 
 /home/keithpx/Documents/BrushBound/include/glm/detail/type_half.hpp:
 

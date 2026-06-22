@@ -310,8 +310,13 @@ CMakeFiles/BrushBound.dir/src/main.cpp.o
  /home/keithpx/Documents/BrushBound/include/glm/vec2.hpp
  /home/keithpx/Documents/BrushBound/include/glm/vec3.hpp
  /home/keithpx/Documents/BrushBound/include/glm/vec4.hpp
+ /home/keithpx/Documents/BrushBound/src/BotAI.h
+ /home/keithpx/Documents/BrushBound/src/Game.h
  /home/keithpx/Documents/BrushBound/src/Mesh.h
  /home/keithpx/Documents/BrushBound/src/Shader.h
+ /home/keithpx/Documents/BrushBound/src/Trail.h
+ /home/keithpx/Documents/BrushBound/src/UI.h
+ /home/keithpx/Documents/BrushBound/src/Wizard.h
  /home/keithpx/Documents/BrushBound/src/stb_image.h
  /usr/include/alloca.h
  /usr/include/asm-generic/bitsperlong.h
